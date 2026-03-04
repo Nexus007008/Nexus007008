@@ -12,7 +12,7 @@
 
 **`I build things that probably shouldn't exist.`**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=560&lines=Developer+%7C+Hacker+%7C+Tinkerer;Always+building.+Rarely+sleeping.;ESP32+%7C+Arduino+%7C+Python+%7C+C%2B%2B;Something+new+is+coming+👾" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=560&lines=Developer+%7C+Hacker+%7C+Tinkerer;Always+building.+Rarely+sleeping.;ESP32+%7C+Arduino+%7C+Python+%7C+C%2B%2B;Something+new+is+coming" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/Nexus007008?style=flat&color=00FF41&labelColor=0d1117&label=followers)](https://github.com/Nexus007008)
 [![Profile Views](https://komarev.com/ghpvc/?username=Nexus007008&color=00FF41&style=flat&label=profile+views)](https://github.com/Nexus007008)
