@@ -126,7 +126,7 @@ drwx------ [REDACTED]   ██████████████  <-- almost
 ```
  ╔═══════════════════════════════════════════════════════╗
  ║  "Stay curious. Stay creative.                        ║
-║   Always push the boundaries of what's possible."      ║
+ ║   Always push the boundaries of what's possible."     ║
  ║                                        — Nexus_ 😈   ║
  ╚═══════════════════════════════════════════════════════╝
 ```
