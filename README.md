@@ -124,11 +124,11 @@ drwx------ [REDACTED]   ██████████████  <-- almost
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════╗
-║  "Stay curious. Stay creative.                        ║
+ ╔═══════════════════════════════════════════════════════╗
+ ║  "Stay curious. Stay creative.                        ║
 ║   Always push the boundaries of what's possible."    ║
-║                                        — Nexus_ 😈   ║
-╚═══════════════════════════════════════════════════════╝
+ ║                                        — Nexus_ 😈   ║
+ ╚═══════════════════════════════════════════════════════╝
 ```
 
 *The repos are quiet. For now.*
