@@ -12,7 +12,6 @@
 
 **`Hacker. Builder. Chaos Engineer.`**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=Building+weird+%26+wonderful+things;Ethical+hacker+%7C+Hardware+tinkerer;ESP32+%7C+Arduino+%7C+Python+%7C+C%2B%2B;Let's+hack+the+world+(ethically+😈)" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/Eddi11112222?style=flat&color=00FF41&labelColor=0d1117&label=followers)](https://github.com/Eddi11112222)
 [![Profile Views](https://komarev.com/ghpvc/?username=Eddi11112222&color=00FF41&style=flat&label=profile+views)](https://github.com/Eddi11112222)
