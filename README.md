@@ -1,66 +1,166 @@
-👾 About Me – Eddi11112222
-===========================
-                                                                                                                              
-                                                                                                         
-                         ZZZZZZZZZZZZZZZZZZZDDDDDDDDDDDDD       ZZZZZZZZZZZZZZZZZZZ                     
-                         Z:::::::::::::::::ZD::::::::::::DDD    Z:::::::::::::::::Z                     
-                         Z:::::::::::::::::ZD:::::::::::::::DD  Z:::::::::::::::::Z                     
-    ******         ******Z:::ZZZZZZZZ:::::Z DDD:::::DDDDD:::::D Z:::ZZZZZZZZ:::::Z ******         ******
-    *:::::*       *:::::*ZZZZZ     Z:::::Z    D:::::D    D:::::DZZZZZ     Z:::::Z  *:::::*       *:::::*
-    ***::::*******::::***        Z:::::Z      D:::::D     D:::::D       Z:::::Z    ***::::*******::::***
-       **:::::::::::**          Z:::::Z       D:::::D     D:::::D      Z:::::Z        **:::::::::::**   
-    ******:::::::::******      Z:::::Z        D:::::D     D:::::D     Z:::::Z      ******:::::::::******
-    *:::::::::::::::::::*     Z:::::Z         D:::::D     D:::::D    Z:::::Z       *:::::::::::::::::::*
-    ******:::::::::******    Z:::::Z          D:::::D     D:::::D   Z:::::Z        ******:::::::::******
-       **:::::::::::**      Z:::::Z           D:::::D     D:::::D  Z:::::Z            **:::::::::::**   
-    ***::::*******::::***ZZZ:::::Z     ZZZZZ  D:::::D    D:::::DZZZ:::::Z     ZZZZZ***::::*******::::***
-    *:::::*       *:::::*Z::::::ZZZZZZZZ:::ZDDD:::::DDDDD:::::D Z::::::ZZZZZZZZ:::Z*:::::*       *:::::*
-    ******         ******Z:::::::::::::::::ZD:::::::::::::::DD  Z:::::::::::::::::Z******         ******
-                         Z:::::::::::::::::ZD::::::::::::DDD    Z:::::::::::::::::Z                     
-                         ZZZZZZZZZZZZZZZZZZZDDDDDDDDDDDDD       ZZZZZZZZZZZZZZZZZZZ                     
-                                                                                                    
-                                                                                                                   
-                                                                                                                                              
-                                                                                                                                 
-                                                                                                                                            
-Hey! I'm Eddi, a passionate hacker and creator with a love for all things tech and chaos.  
-I specialize in building weird, fun, and sometimes creepy digital projects, often using Python, Arduino, and ESP32. I also enjoy playing around with microelectronics and security research.
+<!-- HEADER -->
+<div align="center">
 
-Here's a little about me:
+```
+███████╗██████╗ ██████╗ ██╗
+██╔════╝██╔══██╗██╔══██╗██║
+█████╗  ██║  ██║██║  ██║██║
+██╔══╝  ██║  ██║██║  ██║██║
+███████╗██████╔╝██████╔╝██║
+╚══════╝╚═════╝ ╚═════╝ ╚═╝
+```
 
-🔧 **Skills & Interests**
-- **Languages**: Python, C, C++, JavaScript, HTML/CSS
-- **Tools**: Arduino, ESP32, Raspberry Pi, Wi-Fi Hacking, BLE, GPIO
-- **Projects**: Prankware, DIY electronics, ethical hacking, IoT, automation, GPUs
-- **Security**: Ethical Hacking (Wi-Fi Penetration Testing), OSINT, Hardware Hacking
-- **Frameworks**: Tkinter, PyQt, Flask, Node.js
-- **I’m looking to collaborate**: on making/coding GPUs, making circuit board´s, coding software
+**`Hacker. Builder. Chaos Engineer.`**
 
-🎮 **Hobbies**
-- Creating prank tools (don't worry, they’re safe, I swear!)
-- Working on DIY electronics projects (always tinkering)
-- Playing with microcontrollers and sensors
-- Exploring new hacking tools and techniques (ethical, of course)
-- Having fun with cybersecurity and penetration testing
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=Building+weird+%26+wonderful+things;Ethical+hacker+%7C+Hardware+tinkerer;ESP32+%7C+Arduino+%7C+Python+%7C+C%2B%2B;Let's+hack+the+world+(ethically+😈)" alt="Typing SVG" />
 
-👾 **Current Projects**
-1. **ChatGPU**, a GPU completly designed and the parts picket by ChatGPT.
-2. Another **GPU**, that you can build yourself (Open-Source).
+[![GitHub followers](https://img.shields.io/github/followers/Eddi11112222?style=flat&color=00FF41&labelColor=0d1117&label=followers)](https://github.com/Eddi11112222)
+[![Profile Views](https://komarev.com/ghpvc/?username=Eddi11112222&color=00FF41&style=flat&label=profile+views)](https://github.com/Eddi11112222)
 
-⚡ **On the Horizon**
-- Building **ethical hacking** tools for penetration testing and network analysis.
-- Gpu Named: **ZeroGPU**
+</div>
 
 ---
 
-Feel free to check out my projects, and if you want to collaborate, just shoot me a message! Let's hack the world together (ethically, of course).
+## `> whoami`
 
-🔗 **Connect with Me**
-- **GitHub**: https://github.com/Eddi11112222
-- **e-mail**: zerodayzone1111@gmail.com
-- **Discord**: @zeroday0624
+```python
+class Eddi:
+    name        = "Eddi"
+    alias       = "ZeroDay"
+    location    = "The dark side of the web 🌐"
+    focus       = ["Hardware Hacking", "IoT", "Security Research", "GPU Design"]
+    current     = ["ZeroGPU", "ChatGPU", "Open-Source GPU"]
+    philosophy  = "Stay curious. Break things. Fix them better."
+    contact     = "zerodayzone1111@gmail.com"
+```
 
 ---
 
-Stay curious, stay creative, and always push the boundaries of what you can do with tech.  
-Catch you on the dark side of the web! 😈
+## `> skills --list`
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**💻 Languages**
+```
+Python      ████████████  ★★★★★
+C / C++     ████████░░░░  ★★★★☆
+JavaScript  ███████░░░░░  ★★★☆☆
+HTML / CSS  ████████░░░░  ★★★★☆
+```
+
+</td>
+<td valign="top" width="33%">
+
+**🔩 Hardware**
+```
+Arduino     ████████████  ★★★★★
+ESP32       ████████████  ★★★★★
+Raspberry Pi ███████████  ★★★★★
+BLE / Wi-Fi ████████░░░░  ★★★★☆
+GPIO / PCB  ███████░░░░░  ★★★☆☆
+```
+
+</td>
+<td valign="top" width="33%">
+
+**🛡️ Security**
+```
+Wi-Fi PenTest ██████████  ★★★★★
+OSINT         ████████░░  ★★★★☆
+Hardware Hack ████████░░  ★★★★☆
+Network Anal. ███████░░░  ★★★☆☆
+```
+
+</td>
+</tr>
+</table>
+
+**Frameworks & Tools:**
+`Tkinter` `PyQt` `Flask` `Node.js` `KiCad` `Wireshark` `aircrack-ng` `Nmap` `Metasploit`
+
+---
+
+## `> ls ./projects`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🖥️ ChatGPU
+> A GPU **completely designed by ChatGPT** — from architecture to component selection. Exploring how far AI can push hardware design.
+
+`Status:` 🟡 In Progress
+
+</td>
+<td width="50%">
+
+### ⚡ ZeroGPU
+> An **open-source GPU you can build yourself**. Full schematics, BOM, and firmware — community-driven silicon.
+
+`Status:` 🔴 Designing
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔓 Ethical Hacking Toolkit
+> Building modular tools for **Wi-Fi pentesting and network analysis**. Clean interfaces, powerful backends.
+
+`Status:` 🟡 In Progress
+
+</td>
+<td width="50%">
+
+### 🎭 Prankware Collection
+> A growing library of **harmless chaos tools** — because computers should be fun. (Don't worry, they're safe. Probably.)
+
+`Status:` 🟢 Always Growing
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> cat ./hobbies.txt`
+
+```
+[*] Reverse engineering electronics just to understand them
+[*] Designing PCBs from scratch (and fixing my mistakes)
+[*] Poking holes in Wi-Fi networks (my own, I promise)
+[*] Turning microcontrollers into tiny chaos machines
+[*] Staying up too late reading datasheets
+[*] Contributing to projects nobody else dares to touch
+```
+
+---
+
+## `> ifconfig connect`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Eddi11112222-181717?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Eddi11112222)
+[![Email](https://img.shields.io/badge/Email-zerodayzone1111@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zerodayzone1111@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-@zeroday0624-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║  "Stay curious. Stay creative.                       ║
+║   Always push the boundaries of what's possible."   ║
+║                                          — Eddi 😈  ║
+╚══════════════════════════════════════════════════════╝
+```
+
+*Feel free to explore the repos, open issues, or just say hi.*
+*Let's build something weird together.*
+
+</div>
