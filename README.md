@@ -27,7 +27,7 @@
 class Nexus_:
     name        = "Nexus_"
     role        = "Developer"
-    focus       = ["Hardware", "Security Research", "IoT", "Low-level Dev"]
+    focus       = ["Hardware", "Security Research", "IoT", "Mid-level Dev"]
     languages   = ["Python", "C", "C++", "JavaScript", "HTML/CSS", "LUA"]
     hardware    = ["Arduino", "ESP32", "Raspberry Pi", "custom PCBs"]
     security    = ["Wi-Fi PenTesting", "OSINT", "Hardware Hacking", "BLE"]
